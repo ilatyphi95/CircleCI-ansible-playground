@@ -1,0 +1,22 @@
+[
+    {
+        "ParameterKey": "EnvironmentName",
+        "ParameterValue": "udacity"
+    },
+    {
+        "ParameterKey": "VpcCIDR",
+        "ParameterValue": "10.0.0.0/16"
+    },
+    {
+        "ParameterKey": "PubSubnet1CIDR",
+        "ParameterValue": "10.0.0.0/24"
+    },
+    {
+        "ParameterKey": "PubSubnet2CIDR",
+        "ParameterValue": "10.0.1.0/24"
+    },
+    {
+        "ParameterKey": "AmiId",
+        "ParameterValue": "place holder"
+    }
+]
